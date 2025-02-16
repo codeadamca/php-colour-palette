@@ -116,10 +116,6 @@ function closest_color($target)
 
 }
 
-// $closest = closest_color('#F47A20');
-// echo '<div style="background-color: #F47A20; width: 100px; height: 100px;"></div>';
-// echo '<div style="background-color: rgb('.implode(',', $closest).'); width: 100px; height: 100px;"></div>';
-
 ?>
 
 <!DOCTYPE html>
