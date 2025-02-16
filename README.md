@@ -1,4 +1,4 @@
-# IMage Colour Palette
+# Image Colour Palette
 
 Converting an image to use a speciic colour palette.
 
