@@ -3,7 +3,7 @@
 Converting an image to use a speciic colour palette.
 
 > [!NOTE]
-> This code required a StackOverflow question:
+> This code required a StackOverflow question:  
 > https://stackoverflow.com/questions/79442354/calculating-distance-between-colours-using-php
 
 ---
